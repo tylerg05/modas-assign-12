@@ -9,9 +9,6 @@ from time import sleep
 
 class Modas:
 	def __init__(self):
-		# TODO: init PiCamera
-
-		# TODO: set camera resolution
 
 		# init green, red LEDs
 		self.green = LED(24)
